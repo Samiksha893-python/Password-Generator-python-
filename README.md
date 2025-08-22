@@ -28,10 +28,15 @@ Jupyter Notebook
 ## Example Output
 
 enter you length of the password: 9
+
 ?RlywCJh6
+
 Do you want to create the password again? yes
+
 enter you length of the password: 5
+
 f^Be7
+
 Do you want to create the password again? no
 
 ## Future Enhancements
